@@ -1,0 +1,286 @@
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {f6389186-3e22-a72a-84ed-7a6d9479c5a7}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {5d17a70e-e623-49d3-c027-660abc65a975}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {7d958ea4-9acd-92a7-59d1-aab71528a728}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {fc2dbb0a-2015-fdd1-d33c-4fb4dc6f3647}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {9e89669d-eaac-3a08-b1b8-c7ac15aab0ef}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {73633b31-5d03-d24b-646c-57c79ea7b474}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {0d7df263-c73c-2420-d4ad-3194ad1c0e78}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {545975e5-13e4-09ed-8052-10b83e6d2b76}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {97b813d4-04b9-a90f-ba43-9004cf70a91f}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {15ba168e-57b5-1e86-7c5d-f7b0cdfa22b3}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {9beed1ae-1008-6ee9-aca5-87c2e193936c}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {16013e33-5dbc-a77b-0a62-2ac06f38478e}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {6a030fc9-7731-96d4-19b4-a188784c1841}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {5b99ce04-84ac-d757-122c-5977dae58fa4}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {e0e2d86c-6237-d2ab-8120-81405900f9c9}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {f7248399-8b88-e8c8-5328-9c802310c5dc}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {fbbf24e1-77de-beb2-a1ba-0ec6556017ae}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {b80d3e13-037f-f626-d25d-3db788bac897}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {7a8b8afd-1f16-218c-4c40-de9ddf1cc76e}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {e5ed6260-4201-5b85-4103-efc1c9f3f8eb}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {3a796758-79c6-9cee-842d-0cb38c56ea86}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {9fe26565-15e0-3244-7755-df0ed0c73851}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {c8fae34c-f884-19f6-c203-2b7685ba54b0}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {8b590835-b7f4-8a28-44b9-2da9d55a890a}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {e07b036f-3db1-8a0c-cfee-0dcc005091ca}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {853aaefb-60be-bf10-bf71-46f93085d0dd}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {c1f58d2b-696c-90d1-4e31-7c56afce6bcc}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {50acef83-3f0b-752f-8931-cd58b730f638}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {593e49c5-166d-678e-3422-91381d0a8ef9}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {b05dc5f7-43e5-0763-ae7b-4440554a2b45}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {684b21b1-dfde-f360-2815-f2cc670f70de}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {54867343-eb5c-3df1-90de-8fd5daa16b79}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {b8f871bc-90a1-252a-101f-526a37aaed6c}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {fe5765f8-7611-3084-8779-7104cfcddda8}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {b9ec8bca-01c2-2a03-62f6-040d5e795c6c}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {c993982d-2113-eaa3-d13e-8f986a30aecd}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {94a851d2-a3f1-627c-8238-ba2a0528be68}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {2e89ec90-8c9d-2e85-7974-1dc87a555f9f}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {5f55022d-4365-0121-e48f-3fd2c87bd542}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {088f8fc2-982d-a811-01df-9ff672401d94}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {905d9fc1-9217-9d46-1d04-b80790346f2b}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {675c20c5-3568-7c32-d57e-62e91c0d3d93}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {2353b428-fa92-ebca-d9ac-1ec38c291b82}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {6e23e665-7fbf-7e12-0e19-91474834c79b}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {a8010b34-1a6c-68e6-3750-3e4a8df61333}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {cf87936c-0519-e667-cba0-96dfc61b2cee}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {c5ea4bc5-61fe-9b4d-7c12-40ae6eaf7d1d}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {07e0d19a-d859-b086-2ba0-0d4aebdbc614}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {d9918c1d-50e9-edbd-e793-fa02d5e8ea86}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {fd61f22f-5cdb-25aa-c31f-415ee63b9d5d}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {9d8786f4-db73-0f7a-0e6a-d5d016fbda0f}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {3c5c3a76-d44a-2d8d-f830-f4b075192c9f}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {5b498b07-7232-212e-e2fd-dc3bab379b2e}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {5e3a29f5-b79a-811b-8c23-83e8aa47cf7e}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {b95046f7-53e5-a678-ac6d-96f6c1a898cd}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {6bf82783-6a2a-14a8-33c7-20c1cf02e4c2}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {a39324d3-73e6-ed69-2c3f-cdba25beb068}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {ce633ac6-808a-39f6-c4b9-6f7ee5e51f38}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {9024c62a-d48c-e482-1608-48d7fcd83926}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {f288fb43-28b0-cbbf-1a14-72ec7846a1da}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {4add6e52-fa57-b96e-4eed-c7cd6b4e9b4a}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {df911fa5-dbb6-8b60-21d3-7033b4da267a}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {1f181ac7-8969-e6e1-3874-47524b6b43c3}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {cd190654-99c7-acfc-9d63-e6365083323d}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {47c5ad11-bd6a-9037-1abe-3b6c0107a048}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {9091658b-0dd1-f9eb-99e8-73436b5e8265}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {27277753-8f63-4295-7e0f-a6d2aae8191d}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {744615e5-76cd-3b29-c09e-37184155944b}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {4a4c5db6-f5c7-cc66-07a3-55eaff26a6f4}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {b7058ade-e1d5-304c-2ecd-69f1ec960dd2}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {79dff438-e3c3-361a-5f74-f2fd60e58d52}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {ce1e8aaf-fdac-0a95-ea25-9fc83a002ec9}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {abbb8e38-dffd-51c5-e4d0-933c0d0bee96}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {376bf2fa-01d1-c579-c21a-7f7054b9b888}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {633d37ef-4fa3-adb8-8b7f-e6bbfc24a404}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {00803add-1949-31e1-25d2-132bfedc501d}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {3c72edc0-1122-7708-8670-76452079e889}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {8371caf1-1ae5-c73c-75f4-61d89954a60e}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {c7877030-056a-e4f4-eefe-48f7dcc28a2f}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {2ba4d6ba-6cbf-9b17-a639-aae54edd3ee1}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {63b9c17f-38bc-5b1c-f9fd-179d4e41c1c5}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {3b1601d7-32a7-e435-cf36-85d225d5aeab}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {94ea223e-adcf-fc0b-a606-10615e4622e1}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {c4e79c99-28cf-20df-91bb-c1cdda22b1c1}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {e4350339-0671-5110-d68c-85b2177af356}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {9a36e857-0037-f795-baee-6abac3b0bc6f}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {d6c85214-ddd9-98d2-37ad-247812e85e0e}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {46e6569f-9927-cca6-cb7a-d2c1b02585b1}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {cb704f4b-2915-41a2-42b1-7a56fdefe3c2}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {8a8175c4-52a7-872d-0d42-e0083e65eb3e}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {ff1aac51-0355-e1b8-a124-162dc07dac0f}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {dcae796d-e3c0-6fd3-4f36-766af9661cfa}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {6b0af539-e0eb-a0e5-8f9b-13bc7b6897ae}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {b4e12dd4-f6c3-8916-b221-d0bd9c41818a}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {da7d6868-78ab-ddc5-e449-584f3f21dadf}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {32faa798-25fb-2a6e-a89d-61ff289551f7}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {628ac3bb-2fb1-b035-cde4-fa63ab4eb101}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {0a8f3874-ed11-7106-a7e2-5ec41213a478}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {799ab623-d969-345e-56bc-d6981d144159}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {a40c36f4-3d4a-4b07-5b67-29dd2799fdfd}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {66c7d317-7893-a042-0e80-97373dc836da}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {99df6483-1011-1e83-a744-2f310c2eb18f}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {ad3f5b3e-1b53-ea99-dba2-a54cfa15e091}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {9beb1ee3-95c4-0d1f-3b21-4cb451fa0ab0}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {3d7bafbd-9dd4-4eba-bd38-eb6b3f3cf6f0}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {8ee8b3a7-76f6-8f68-f3df-6477218a9766}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {01ee4ebe-6726-91f2-7a49-a1ab202c96bd}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {ec248953-dc29-3a4f-f078-1371dcfd4354}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {3807ab42-603e-6395-1ba9-6dcaa174c57a}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {34f51945-c53e-a314-c549-26f920796c74}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {63640c95-1a7b-e0a7-eca9-0a2ded93d051}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {f6c8c25f-6b1f-04a0-ee06-0dd5f4ddb6dd}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {240be78e-726a-8e2e-d316-1169e1fa1266}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {1a9c04f5-a658-8f5b-665e-5427bcd5c847}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {2137d071-3283-f12a-b52a-e548fd9a45ee}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {6ab0ec07-3152-9e1e-48f4-48f9f77004c7}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {a76a96a3-ee0e-17b0-bb09-4ae9cc081cbb}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {adbdae6b-013a-4020-fedb-93cda9f017b6}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {31202e5f-eee3-767b-a31f-37a5a609459a}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {e662976f-6f1a-7d57-7e73-7c8166b11a64}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {c6e3d628-bb1e-8dc6-dd41-5fdc581771e7}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {618472bf-43fd-7f57-6ed5-675efee70eb1}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {da1ebabe-759b-bc54-b0ec-534ed808c851}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {951da994-1c3c-0a0c-302f-9c9363aad171}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {41959095-5c88-393c-9790-574e929d07e1}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {36c7a5bd-0193-4e2b-0bbd-75e0fd0fe75b}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {a0e42cb5-5563-8eca-514e-99f91183dc0f}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {205cc00d-5f8a-a83a-96a0-734860c2f4e6}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {84dbb447-7583-cf7c-6e4f-31d6cee3fe23}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {b1b2028b-72ad-689c-a457-c068985bc695}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {84ccd1c8-5dd8-b5c3-0340-fbf3db872127}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {c41c5568-740b-04ce-2049-470b50dab737}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {efc0ad87-c5b1-8be4-714d-88cc56c6af41}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {2a2ab216-5ed4-8fa1-85c7-a3b25b3ef8da}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {e50688c9-7766-ba62-2334-7958a436e8a1}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {068946b0-bb78-b880-b65e-c9b971da0aff}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {35dc7eb1-71ea-7577-85cb-ef3d6ee47631}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {ee59fa33-4ff1-19eb-dc19-81f6f1212820}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {50776c22-2c70-b127-76bb-a7e45c19cfe4}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {d4ec4b80-96dc-656e-76a6-67b6eaf88ff4}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {e545fe71-fe6b-b15a-74c4-8d8135df2b68}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {c57c46d7-fb1a-48da-e9ad-f3baf5ed553e}. You need to start all over again.
+Test your luck! Each draw we randomly choose an RFC4122 UUID with `random.getrandbits(128)` as winner. Which UUID will you put bet on?> 1cbeaabc-5aac-9e93-f7f0-262bd3d62ec3
+Sorry, you lose. The winner is {7f7c8f3d-2b14-c770-2555-1cf162d1c422}. You need to start all over again.
