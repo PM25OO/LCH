@@ -1,5 +1,0 @@
-﻿  demo_2.c
-D:\LCH\C Programming\Project1\Project1\demo_2.c(8,4): error C2065: “x”: 未声明的标识符
-D:\LCH\C Programming\Project1\Project1\demo_2.c(9,15): error C2065: “x”: 未声明的标识符
-D:\LCH\C Programming\Project1\Project1\demo_2.c(9,18): error C2065: “​”: 未声明的标识符
-D:\LCH\C Programming\Project1\Project1\demo_2.c(10,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
