@@ -1,4 +1,4 @@
 # 🎉 WELCOME ! 🎉
 
 
-- These are some personal study files .
+- These are some personal study files . ( NOT ALL
